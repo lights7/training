@@ -1933,7 +1933,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f578ff;
+  background: #dfd4ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3278,6 +3278,6 @@ ul.breadcrumb li+li:last-child {
     margin: 8px 0 0;
   }
 }
-.header {
-  background: $white;
+.site-meta {
+  background: #0072e3;
 }
