@@ -1936,7 +1936,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f003ff;
+  background: #a4ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2788,7 +2788,7 @@ ul.breadcrumb li+li:last-child {
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: #0684bd;
+  background: $blue-light;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .site-meta {
