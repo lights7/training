@@ -826,14 +826,14 @@
     
 
     $(function() {
-      $.get('https://app-router.leancloud.cn/2/route?appId=' + "qianglu")
+      $.get('https://app-router.leancloud.cn/2/route?appId=' + "28o7aLL3u5MQqNUKcy5AqSeo-gzGzoHsz")
         .done(function ({ api_server }) {
           var Counter = function (method, url, data) {
             return $.ajax({
               method: method,
               url: `https://${api_server}/1.1${url}`,
               headers: {
-                'X-LC-Id': "qianglu",
+                'X-LC-Id': "28o7aLL3u5MQqNUKcy5AqSeo-gzGzoHsz",
                 'X-LC-Key': "aC3Q4DYdvaYWSkWwF341zHMd",
                 'Content-Type': 'application/json',
               },
